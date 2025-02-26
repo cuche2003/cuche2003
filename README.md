@@ -1,6 +1,5 @@
 ### Howdy 👋
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=A+journey+of+a+thousand+miles+begins+with+a+single+step.&author=Laozi)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=algolia&quote=A+journey+of+a+thousand+miles+begins+with+a+single+step.&author=Laozi)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #### About me
 I am Nguyen Tuyen (good luck pronouncing that 😅), a low-tier Software Engineer, third-rate Game Developer, and a subpar Musician.
