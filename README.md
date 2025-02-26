@@ -1,6 +1,11 @@
 ### Howdy 👋
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=A journey of a thousand miles begins with a single step.&author=Laozi)](https://github.com/piyushsuthar/github-readme-quotes)
 
-#### Aspiring Software Engineer and Game Developer
+#### About me
+I am Nguyen Tuyen (good luck pronouncing that 😅), a low-tier Software Engineer, third-rate Game Developer, and a subpar Musician.
+But, I'm improving everyday!
+
+#### Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -23,6 +28,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuche2003&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
