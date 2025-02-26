@@ -28,7 +28,7 @@ But, I'm improving everyday!
 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cuche2003&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
